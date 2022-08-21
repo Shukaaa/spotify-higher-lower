@@ -1,12 +1,12 @@
 import PySimpleGUI as sg
-from getData import *
+from get_data import *
 
 #######################
 ### AUTH KEY WINDOW ###
 #######################
 
 import PySimpleGUI as sg
-from getData import *
+from main.python.get_data import *
 
 def authProcess():
     layout = [

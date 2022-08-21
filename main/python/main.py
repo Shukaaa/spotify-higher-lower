@@ -1,6 +1,6 @@
 ### imports ###
 from random import randint
-from getData import *
+from get_data import *
 
 
 ####################
