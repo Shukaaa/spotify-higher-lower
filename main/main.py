@@ -1,3 +1,5 @@
+# Get auth token here: https://developer.spotify.com
+
 ### imports ###
 from random import randint
 import time
